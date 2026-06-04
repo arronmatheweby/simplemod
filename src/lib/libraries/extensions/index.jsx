@@ -46,6 +46,8 @@ import gdxforInsetIconURL from './gdxfor/gdxfor-small.svg';
 import gdxforConnectionIconURL from './gdxfor/gdxfor-illustration.svg';
 import gdxforConnectionSmallIconURL from './gdxfor/gdxfor-small.svg';
 
+import newExtensionImage from "./newextension/newextension.png"
+
 export default [
     {
         name: (
@@ -317,5 +319,13 @@ export default [
             />
         ),
         helpLink: 'https://scratch.mit.edu/vernier'
+    },
+    {
+        name: 'Hello World',
+        extensionId: 'helloWorld', // Must match the scratch-vm ID
+        collaborator: 'Your Name',
+        iconURL: newExtensionImage, // Path to an image file asset
+        description: 'My awesome custom scratch blocks.',
+        featured: true
     }
 ];
