@@ -458,14 +458,7 @@ class MenuBar extends React.Component {
                                 onMouseUp={this.props.onClickFile}
                             >
                                 <img src={fileIcon} />
-                                <span className={styles.collapsibleLabel}>
-                                    <FormattedMessage
-                                        defaultMessage="File"
-                                        description="Text for file dropdown menu"
-                                        id="gui.menuBar.file"
-                                    />
-                                </span>
-                                <img src={dropdownCaret} />
+                               
                                 <MenuBarMenu
                                     className={classNames(styles.menuBarMenu)}
                                     open={this.props.fileMenuOpen}
