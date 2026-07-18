@@ -6094,44 +6094,6 @@
         ],
         "blocks": {}
     },
-    {
-        "name": "Gobo",
-        "tags": [
-            "fantasy",
-            "drawing",
-            "jenkins",
-            "ganglia"
-        ],
-        "isStage": false,
-        "variables": {},
-        "costumes": [
-            {
-                "assetId": "f505a4e9eab5e40e2669a4462dba4c90",
-                "name": "gobo-a",
-                "bitmapResolution": 1,
-                "md5ext": "f505a4e9eab5e40e2669a4462dba4c90.svg",
-                "dataFormat": "svg",
-                "rotationCenterX": 47,
-                "rotationCenterY": 55
-            },
-            {
-                "assetId": "5c0896569305ab177d87caa31aad2a72",
-                "name": "gobo-b",
-                "bitmapResolution": 1,
-                "md5ext": "5c0896569305ab177d87caa31aad2a72.svg",
-                "dataFormat": "svg",
-                "rotationCenterX": 47,
-                "rotationCenterY": 55
-            },
-            {
-                "assetId": "9d8021c216fb92cc708e1e96f3ed2b52",
-                "name": "gobo-c",
-                "bitmapResolution": 1,
-                "md5ext": "9d8021c216fb92cc708e1e96f3ed2b52.svg",
-                "dataFormat": "svg",
-                "rotationCenterX": 47,
-                "rotationCenterY": 55
-            }
         ],
         "sounds": [
             {
@@ -10087,51 +10049,6 @@
         ],
         "blocks": {}
     },
-    {
-        "name": "Pico",
-        "tags": [
-            "fantasy",
-            "drawing"
-        ],
-        "isStage": false,
-        "variables": {},
-        "costumes": [
-            {
-                "assetId": "e7ce31db37f7abd2901499db2e9ad83a",
-                "name": "pico-a",
-                "bitmapResolution": 1,
-                "md5ext": "e7ce31db37f7abd2901499db2e9ad83a.svg",
-                "dataFormat": "svg",
-                "rotationCenterX": 55,
-                "rotationCenterY": 66
-            },
-            {
-                "assetId": "a7597b1f0c13455d335a3d4fe77da528",
-                "name": "pico-b",
-                "bitmapResolution": 1,
-                "md5ext": "a7597b1f0c13455d335a3d4fe77da528.svg",
-                "dataFormat": "svg",
-                "rotationCenterX": 55,
-                "rotationCenterY": 66
-            },
-            {
-                "assetId": "bcc0e8a5dda3a813608902b887c87bb4",
-                "name": "pico-c",
-                "bitmapResolution": 1,
-                "md5ext": "bcc0e8a5dda3a813608902b887c87bb4.svg",
-                "dataFormat": "svg",
-                "rotationCenterX": 55,
-                "rotationCenterY": 66
-            },
-            {
-                "assetId": "d6dfa2efe58939af4c85755feb3c0375",
-                "name": "pico-d",
-                "bitmapResolution": 1,
-                "md5ext": "d6dfa2efe58939af4c85755feb3c0375.svg",
-                "dataFormat": "svg",
-                "rotationCenterX": 55,
-                "rotationCenterY": 66
-            }
         ],
         "sounds": [
             {
